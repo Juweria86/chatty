@@ -1,4 +1,4 @@
-# 🗨️ Casual Messaging App
+# 🗨️ Chatty Messaging App
 
 A modern, casual messaging web app built using the **MERN stack** – MongoDB, Express.js, React, and Node.js. Stay connected with real-time chats in a simple, clean interface.
 
